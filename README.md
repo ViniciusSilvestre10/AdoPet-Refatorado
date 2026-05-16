@@ -31,12 +31,6 @@ A refatoração transformou o código monolítico e acoplado utilizando os segui
 
 ---
 
-## 🎨 Layout
-
-O projeto deste repositório é focado exclusivamente no Backend (API), mas o design da aplicação pode ser visualizado aqui: [Layout no Figma](https://www.figma.com/file/TlfkDoIu8uyjZNla1T8TpH?embed_host=notion&kind=&node-id=518%3A11&t=esSUkfGQEWUeUASj-1&type=design&viewer=1)
-
----
-
 ## 🚀 Tecnologias Utilizadas
 
 - **Java 17**
